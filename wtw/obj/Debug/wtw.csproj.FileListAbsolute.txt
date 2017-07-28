@@ -1,0 +1,13 @@
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\bin\Debug\wtw.exe.config
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\bin\Debug\wtw.exe
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\bin\Debug\wtw.pdb
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\obj\Debug\MainWindow.g.cs
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\obj\Debug\App.g.cs
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\obj\Debug\wtw_MarkupCompile.cache
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\obj\Debug\wtw_MarkupCompile.lref
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\obj\Debug\MainWindow.baml
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\obj\Debug\wtw.g.resources
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\obj\Debug\wtw.Properties.Resources.resources
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\obj\Debug\wtw.csproj.GenerateResource.Cache
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\obj\Debug\wtw.exe
+c:\users\jlott\documents\visual studio 2015\Projects\wtw\wtw\obj\Debug\wtw.pdb

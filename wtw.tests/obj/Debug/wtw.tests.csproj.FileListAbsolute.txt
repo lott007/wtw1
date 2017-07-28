@@ -1,0 +1,9 @@
+c:\Users\jlott\documents\visual studio 2015\Projects\wtw\wtw.tests\obj\Debug\wtw.tests.csprojResolveAssemblyReference.cache
+c:\Users\jlott\documents\visual studio 2015\Projects\wtw\wtw.tests\bin\Debug\wtw.tests.dll
+c:\Users\jlott\documents\visual studio 2015\Projects\wtw\wtw.tests\bin\Debug\wtw.tests.pdb
+c:\Users\jlott\documents\visual studio 2015\Projects\wtw\wtw.tests\bin\Debug\nunit.framework.dll
+c:\Users\jlott\documents\visual studio 2015\Projects\wtw\wtw.tests\bin\Debug\wtw.exe
+c:\Users\jlott\documents\visual studio 2015\Projects\wtw\wtw.tests\bin\Debug\wtw.pdb
+c:\Users\jlott\documents\visual studio 2015\Projects\wtw\wtw.tests\bin\Debug\nunit.framework.xml
+c:\Users\jlott\documents\visual studio 2015\Projects\wtw\wtw.tests\obj\Debug\wtw.tests.dll
+c:\Users\jlott\documents\visual studio 2015\Projects\wtw\wtw.tests\obj\Debug\wtw.tests.pdb
